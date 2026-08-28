@@ -1,6 +1,6 @@
 # python-raw-http
 
-Honestly, just documenting my learning journey with Python. THATS it.
+honestly just documenting my learning journey with Python. THATS itttttttttttttttttttttttttttttttttttttttt.
 
 ## Overview
 
